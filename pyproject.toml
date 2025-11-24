@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Highly efficient computation of fully normalized associated Legendre functions using the Belikov algorithm."
 readme = "README.md"
 requires-python = ">=3.9"
-license = {file = "LICENSE"}
+license = {text = "MIT License"}
 authors = [
   {name = "Bennett Kellmayer", email = "kellmayer.1@osu.edu"},
 ]
@@ -27,7 +27,6 @@ classifiers = [
     "Topic :: Scientific/Engineering :: GIS",
     "Topic :: Scientific/Engineering :: Mathematics",
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
