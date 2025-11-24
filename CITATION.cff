@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Kellmayer"
+    given-names: "Bennett"
+    orcid: "https://orcid.org/0009-0009-0510-0063"
+title: "pybelikov: High-precision computation of fully normalized associated Legendre functions"
+version: 0.1.0
+date-released: 2025-11-24
+url: "https://github.com/bkellmayer6/pybelikov"
+license: MIT
+keywords:
+  - geodesy
+  - legendre-functions
+  - belikov
+  - gravity-field
+references:
+  - type: article
+    authors:
+      - family-names: "Lei"
+        given-names: "Wei"
+      - family-names: "Li"
+        given-names: "Kuan"
+    title: "Evaluating Applicability of Four Recursive Algorithms for Computation of the Fully Normalized Associated Legendre Functions"
+    journal: "Journal of Applied Geodesy"
+    year: 2016
+    volume: 10
+    issue: 4
+    doi: "10.1515/jag-2016-0032"

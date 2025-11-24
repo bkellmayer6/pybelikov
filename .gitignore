@@ -1,0 +1,18 @@
+# --- Testing Artifacts ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Distribution / Packaging Artifacts ---
+*.egg-info/
+dist/
+build/
+
+# --- Bytecode / Cache (Standard Python) ---
+__pycache__/
+*.pyc
+
+# --- IDE / Editor History ---
+.history/
+.vscode/
+.idea/
