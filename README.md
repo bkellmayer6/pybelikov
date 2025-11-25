@@ -1,5 +1,9 @@
 # pybelikov
 
+[![PyPI](https://img.shields.io/pypi/v/pybelikov?color=blue)](https://pypi.org/project/pybelikov/)
+[![License](https://img.shields.io/pypi/l/pybelikov)](https://github.com/bkellmayer6/pybelikov/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17716289.svg)](https://doi.org/10.5281/zenodo.17716289)
+
 A Python module for the high-precision computation of **Fully Normalized Associated Legendre Functions (fnALFs)** using the Belikov recurrence algorithm.
 
 ## Why pybelikov?
