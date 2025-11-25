@@ -62,3 +62,10 @@ A `CITATION.cff` file is included in this repository for compatibility with refe
 > Lei, W., & Li, K. (2016). Evaluating Applicability of Four Recursive
 > Algorithms for Computation of the Fully Normalized Associated Legendre
 > Functions. Journal of Applied Geodesy, 10(4).
+
+## Acknowledgements
+
+The development of `pybelikov` originated as coursework for the Graduate
+Geodetic Science program at The Ohio State University. Special thanks to
+Prof. Jun-Yi Guo, Brayden Brinks, and Yushan Zhang for their help
+throughout the course and in the development of this code.
